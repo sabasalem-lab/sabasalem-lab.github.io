@@ -1,22 +1,38 @@
-# Portfolio Template · IVC CS Club
+# Saba Salem — Portfolio
 
-Make your own portfolio site in about 30 minutes. No installs needed.
+Personal portfolio website for Saba Salem, an honors Computer Science student at Irvine Valley College looking for summer 2027 internships in software engineering and robotics.
 
-## 1. Copy this template
-Click the green **Use this template** button → **Create a new repository**.
-Name it exactly `YOUR-USERNAME.github.io` (example: `kftadros.github.io`) and make it **Public**.
+**Live site:** https://sabasalem-lab.github.io
 
-## 2. Open the editor
-On your new repo, press the **`.`** (period) key. A code editor opens in your browser.
+## What's on the site
 
-## 3. Make it yours
-- Open `index.html` and change everything next to a ✏️ comment.
-- Open `style.css` and change `--accent` at the top to your favorite color.
-- Want a photo? Drag a picture named `photo.jpg` into the file list, then follow the ✏️ PHOTO note in `index.html`.
+- **Projects:** featured work, starting with a [C++ delivery order system](https://github.com/sabasalem-lab/delivery-order-system) built with inheritance, polymorphism, and exception handling
+- **About:** background, education, and a skills list (C++, Java, Python, HTML, Data Structures, Object-Oriented Programming)
+- **Contact:** email, GitHub, and LinkedIn links
 
-## 4. Save
-Click the **Source Control** icon on the left (it looks like a branch), type a message like `add my info`, and click **Commit & Push**.
+## Built with
 
-## 5. Go live
-Back on your repo page: **Settings → Pages** → Source: **Deploy from a branch** → Branch: **main** / **(root)** → **Save**.
-Wait a minute or two, then visit `https://YOUR-USERNAME.github.io` 🎉
+- HTML and CSS (no frameworks)
+- Google Fonts: Bricolage Grotesque and Silkscreen
+- Hosted for free on GitHub Pages
+- Responsive layout that works on phones, with light and dark mode that follow the device setting
+
+## Project structure
+
+| File | Purpose |
+|---|---|
+| `index.html` | All of the page content |
+| `style.css` | Colors, layout, and responsive styles |
+| `photo.jpg` | Profile photo |
+
+## Run it locally
+
+Download or clone the repo and open `index.html` in a browser. No install or build step is needed.
+
+## Credits
+
+Started from the IVC CS Club Web Design workshop template, then customized with my own content.
+
+## Contact
+
+[sabasalem2003@gmail.com](mailto:sabasalem2003@gmail.com) · [LinkedIn](https://www.linkedin.com/in/saba-salem) · [GitHub](https://github.com/sabasalem-lab)
